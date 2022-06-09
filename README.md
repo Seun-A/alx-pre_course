@@ -1,3 +1,3 @@
 alx-pre_course readme
 
-Updated nabually from GitHub 
+Updated manually from GitHub 
